@@ -13,14 +13,15 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 I'm a Python Software Engineer with 8 yrs of Experience in IT. I like data engineering, data analytics and data science. I am currently working as a Principle Engineer at Pramati Technologies. Pramati is into Product development and Software Services.
 
 In the recent past, I have working with US & UK clients addressing challenges related to big data, data engineering pipelines and build scalable solutions in cloud platforms like AWS, GCp and Azure.
 
 My long term dream is to build & lead a R & D team where I share my passion for new technologies while also building innovative solutions for my organisation as well as the open source community.
+-->
 
-For more details you check my Linkind profile, please check https://www.linkedin.com/in/msampathkumar/
+I am Sampath, Noogler as of now. I am a Python Engineer with hands on experience in Data Analytics & Automation, Data Engineering, Machine Learning(Certified) and Cloud(GCP, AWS, Azure - n't *expert*). I like to learn & love to share.
 
-Here is my tech blog, where I share my learning and experiences with technologis http://inlovewithcode.wordpress.com/
+- 📫 You can check my Linkind profile, if you want to contact (email me) https://www.linkedin.com/in/msampathkumar/
+- 🌱 Here is my tech blog, where I share my learning and experiences with technologis http://inlovewithcode.wordpress.com/
