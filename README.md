@@ -21,7 +21,9 @@ In the recent past, I have working with US & UK clients addressing challenges re
 My long term dream is to build & lead a R & D team where I share my passion for new technologies while also building innovative solutions for my organisation as well as the open source community.
 -->
 
-I am Sampath, Noogler as of now. I am a Python Engineer with hands on experience in Data Analytics & Automation, Data Engineering, Machine Learning(Certified) and Cloud(GCP, AWS, Azure - n't *expert*). I like to learn & love to share.
+I am Sampath, Noogler as of now. I am a Python Engineer with hands on experience in Data Analytics & Automation, Data Engineering, Machine Learning(Certified) and Cloud(GCP, AWS, Azure - n't *expert*).
 
+- 😄 I like to learn & love to share
+- 💬 If you ever got into trouble/issues with Google services/products, let me hear it.
 - 📫 You can check my Linkind profile, if you want to contact (email me) https://www.linkedin.com/in/msampathkumar/
 - 🌱 Here is my tech blog, where I share my learning and experiences with technologis http://inlovewithcode.wordpress.com/
