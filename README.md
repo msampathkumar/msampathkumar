@@ -16,4 +16,8 @@ Here are some ideas to get you started:
 
 -->
 
-Hi, I'm a Python Software Engineer with a decade of IT Experience IT. I like automation, data analytics, data engineering & software development.
+Hi, I'm a Python Software Engineer with a decade of IT Experience IT. I like automation ⚙️, data analytics 📈, data engineering 🦾 & software development 🤖. Ofcourse the best satisfaction is learning, sharing and building valuable things :)
+
+---
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=msampathkumar)](https://github.com/ryo-ma/github-profile-trophy)
