@@ -1,38 +1,33 @@
-### Hi there 👋
+## Hi, I'm Sampath 👋
 
-<!--
-**msampathkumar/msampathkumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I build Google Cloud Gemini features, real-world example apps, and step-by-step guides for developers. 
 
-Here are some ideas to get you started:
+Most of my work focuses on improving the global developer experience for Gemini on Vertex AI. I embrace the philosophy of being a "First Customer, Last Engineer," shipping high-impact technical initiatives, code samples, documentation, and demos that help developers build AI applications seamlessly. 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+I maintain the **Google Cloud - Gemini Cookbook Series**, a step-by-step guide to teach you how to build Gemini features using real-world example apps like chatbots.
 
--->
+### What I work on
+- **AI Agents & LLMs:** Building Agentic systems, multi-agent orchestration, and tooling using Google ADK and Vertex AI. 
+- **Developer Workflows:** Establishing robust testing frameworks and evaluation (Evals) techniques for agentic reasoning and tool-calling accuracy.
+- **RAG & Search:** Deep diving into native multimodal embedding models (Gemini Embedding 2) and semantic search architectures.
+- **Cost & Latency Optimization:** Implementing Vertex AI context caching to make AI applications faster and significantly more cost-effective.
+- **Big Data Engineering:** Building automated, autoscaling Python ecosystems utilizing technologies like Apache Spark, Google Kubernetes, AWS EMR, and Cloud SQL.
+- **Open Source:** Developing Python automations and data visualization tools, and maintaining repositories for developer resources.
 
-Hi, I'm a Python Software Engineer with a decade of IT Experience IT. I like automation ⚙️, data analytics 📈, data engineering 🦾 & software development 🤖. Ofcourse the best satisfaction is learning, sharing and building valuable things :)
+### About Me
+- **Senior Developer Relations Engineer | Tech Lead** at Google Cloud, specializing in enhancing the developer experience for Vertex AI Gemini.
+- **Seasoned Lead Software Engineer** with over 12 years of experience as a Python Big Data Engineer, handling Solution Architecture, Machine Learning, and Microservices.
+- **Author & Technical Writer:** I regularly publish on the Google Cloud Blog (e.g., *Save costs and decrease latency while using Gemini with Vertex AI context caching*) and maintain my personal technical blogs. I was also a Technical Reviewer for *Hands-on Data Analysis and Visualization with Pandas*.
+- **Tech Speaker & Trainer:** Active open-source contributor, technology trainer, and regular speaker at events like GDG CloudFest Poland.
 
-[Google Cloud - Gemini Cookbook Series](https://msampathkumar.github.io/google-cloud-gemini-cookbook): Step by step guide to teach you build Gemini feature with a real world examples app(chatbot).
+🌱 *Building agentic systems or looking to optimize your Gemini implementations? I'd love to connect and share insights!*
 
----
-
-Social: 
-
+**Connect with me:**
+[Linkedin](https://www.linkedin.com/in/msampathkumar/) | 
 [Medium](https://medium.com/@maddula) | 
 [Github](https://github.com/msampathkumar) | 
-[Linkedin](https://www.linkedin.com/in/msampathkumar/) | 
 [Docker](https://hub.docker.com/u/msampathkumar) | 
 [Python](https://pypi.org/user/sampath/) | 
 [Bluesky](https://bsky.app/profile/sampathm.bsky.social)
-
----
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
