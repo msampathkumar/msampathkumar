@@ -4,7 +4,7 @@ I build Google Cloud Gemini features, real-world example apps, and step-by-step 
 
 Most of my work focuses on improving the global developer experience for Gemini on Vertex AI. I embrace the philosophy of being a "First Customer, Last Engineer," shipping high-impact technical initiatives, code samples, documentation, and demos that help developers build AI applications seamlessly. 
 
-I maintain the **Google Cloud - Gemini Cookbook Series**, a step-by-step guide to teach you how to build Gemini features using real-world example apps like chatbots.
+I maintain the [Google Cloud - Gemini Cookbook Series](https://msampathkumar.github.io/google-cloud-gemini-cookbook/), a step-by-step guide to teach you how to build Gemini features using real-world example apps like chatbots.
 
 ### What I work on
 - **AI Agents & LLMs:** Building Agentic systems, multi-agent orchestration, and tooling using Google ADK and Vertex AI. 
@@ -30,4 +30,6 @@ I maintain the **Google Cloud - Gemini Cookbook Series**, a step-by-step guide t
 [Python](https://pypi.org/user/sampath/) | 
 [Bluesky](https://bsky.app/profile/sampathm.bsky.social)
 
+**Active Community Group:**
+[Linkedin](https://www.linkedin.com/groups/13189416/)
 
