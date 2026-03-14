@@ -1,6 +1,6 @@
 ## Hi, I'm Sampath 👋
 
-I build Google Cloud Gemini features, real-world example apps, and step-by-step guides for developers. 
+I build real-world demos, example apps and step-by-step guides for developers. 
 
 Most of my work focuses on improving the global developer experience for Gemini on Vertex AI. I embrace the philosophy of being a "First Customer, Last Engineer," shipping high-impact technical initiatives, code samples, documentation, and demos that help developers build AI applications seamlessly. 
 
@@ -11,7 +11,6 @@ I maintain the [Google Cloud - Gemini Cookbook Series](https://msampathkumar.git
 - **Developer Workflows:** Establishing robust testing frameworks and evaluation (Evals) techniques for agentic reasoning and tool-calling accuracy.
 - **RAG & Search:** Deep diving into native multimodal embedding models (Gemini Embedding 2) and semantic search architectures.
 - **Cost & Latency Optimization:** Implementing Vertex AI context caching to make AI applications faster and significantly more cost-effective.
-- **Big Data Engineering:** Building automated, autoscaling Python ecosystems utilizing technologies like Apache Spark, Google Kubernetes, AWS EMR, and Cloud SQL.
 - **Open Source:** Developing Python automations and data visualization tools, and maintaining repositories for developer resources.
 
 ### About Me
