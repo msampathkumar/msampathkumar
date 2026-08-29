@@ -1,5 +1,9 @@
 ## Hi, I'm Sampath 👋
 
+> Python Engineer | Educator | Tech Lead, Developer Relations (GTM) for Google Cloud.
+
+Working on next-generation Agentic technologies like ADK, A2A and Google Cloud Agent Platform.
+
 I build real-world demos, example apps and step-by-step guides for developers. 
 
 Most of my work focuses on improving the global developer experience for Gemini on Vertex AI. I embrace the philosophy of being a "First Customer, Last Engineer," shipping high-impact technical initiatives, code samples, documentation, and demos that help developers build AI applications seamlessly. 
